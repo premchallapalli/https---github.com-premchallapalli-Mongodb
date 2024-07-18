@@ -9,5 +9,8 @@ public class MigrationApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MigrationApiApplication.class, args);
 	}
+public class InnerMigrationApiApplication {
 
+	
+}
 }
